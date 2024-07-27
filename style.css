@@ -84,7 +84,7 @@ button:focus {
 }
 a:focus,
 a:hover {
-    color: #D7A226;
+    color: #BA9044;
     text-decoration: none;
 }
 a,
@@ -174,7 +174,7 @@ label {
     text-shadow: none;
 }
 .mark, mark {
-    background: #D7A226 none repeat scroll 0 0;
+    background: #BA9044 none repeat scroll 0 0;
     color: #ffffff;
 }
 .fix {
@@ -276,7 +276,7 @@ blockquote::before {
 .section-title > h4 {
 	font-size: 22px;
 	font-weight: 700;
-	color: #D7A226;
+	color: #BA9044;
 	margin-top: 20px;
 	text-transform: capitalize;
 }
@@ -287,7 +287,7 @@ blockquote::before {
     margin-bottom: 25px;
 }
 .section-title > h2 > span {
-	color: #D7A226;
+	color: #BA9044;
 }
 .section-title > p {
 	font-size: 16px;
@@ -333,10 +333,10 @@ blockquote::before {
 	vertical-align: middle;
 }
 .default-btn:hover{
-    color: #D7A226;
+    color: #BA9044;
 }
 .default-btn:hover::before{
-    background-color: #D7A226;
+    background-color: #BA9044;
 }
 /*************************
        social-icon
@@ -351,13 +351,13 @@ blockquote::before {
 	height: 30px;
 	line-height: 30px;
 	display: block;
-	border: 1px solid #D7A226;
+	border: 1px solid #BA9044;
 	text-align: center;
 	border-radius: 100%;
-	color: #D7A226;
+	color: #BA9044;
 }
 .social-link > li > a:hover {
-	background-color: #D7A226;
+	background-color: #BA9044;
 	color: #060227;
 }
 /*************************
@@ -433,7 +433,7 @@ textarea:focus {
 	transition: all 0.3s ease-in-out;
 }
 #scrollUp:hover{
-    background: #D7A226;
+    background: #BA9044;
 }
 
 /*************************
@@ -682,7 +682,7 @@ textarea:focus {
  .white-bg { background: #fff !important; }
  .gray-bg { background: #f5f6f7 !important; }
  .black-bg { background: #060227 !important; }
- .default-bg { background: #D7A226 !important; }
+ .default-bg { background: #BA9044 !important; }
  .transparent-bg { background: transparent !important; }
 
 /*Opacity background*/
@@ -788,7 +788,7 @@ Common Style CSS
 .header-top-left > p,
 .header-top-right > p{
 	margin: 0;
-	color: #D7A226;
+	color: #BA9044;
 	font-size: 17px;
 	text-transform: uppercase;
 	line-height: 35px;
@@ -796,7 +796,7 @@ Common Style CSS
 }
 .header-top-left > p > a, 
 .header-top-right > p > a {
-	color: #D7A226;
+	color: #BA9044;
 	display: inline-block;
 	text-transform: none;
 	margin-left: 8px;
@@ -832,7 +832,7 @@ Common Style CSS
 }
 .main-menu > li.active > a,
 .main-menu > li:hover > a {
-	color: #D7A226;
+	color: #BA9044;
 }
 .main-menu > li > ul {
 	background: #fff none repeat scroll 0 0;
@@ -874,7 +874,7 @@ Common Style CSS
 	font-size: 15px;
 }
 .main-menu > li > ul > li > a::before {
-	background: #D7A226 none repeat scroll 0 0;
+	background: #BA9044 none repeat scroll 0 0;
 	content: "";
 	height: 7px;
 	left: 15px;
@@ -891,7 +891,7 @@ Common Style CSS
 }
 .main-menu > li > ul > li:hover > a {
 	padding-left: 15px;
-    color: #D7A226;
+    color: #BA9044;
 }
 /*Mobile Menu CSS*/
 .mobile-menu .mean-nav > ul {
@@ -1093,13 +1093,13 @@ Common Style CSS
 }
 .hero-content > .title > h1 {
 	font-size: 55px;
-	color: #D7A226;
+	color: #BA9044;
 	font-weight: 700;
 	text-transform: capitalize;
 	margin-bottom: 20px;
 }
 .hero-content > .title > h2 {
-	color: #D7A226;
+	color: #BA9044;
 	font-size: 28px;
 	font-weight: 400;
     margin-bottom: 0;
@@ -1114,7 +1114,7 @@ Common Style CSS
 }
 .hero-content > a {
 	font-size: 20px;
-	color: #D7A226;
+	color: #BA9044;
 	font-weight: 700;
 	font-family: Droid Serif;
 	text-decoration: underline;
@@ -1140,7 +1140,7 @@ Common Style CSS
 	margin: 22px 0;
 }
 .single-feature:hover > h2{
-    color: #D7A226;
+    color: #BA9044;
 }
 .single-feature > h2 {
 	font-size: 24px;
@@ -1205,7 +1205,7 @@ Common Style CSS
 }
 .about-content > h1 {
 	font-size: 36px;
-	color: #D7A226;
+	color: #BA9044;
 	font-weight: 700;
 	margin-bottom: 20px;
 }
@@ -1275,7 +1275,7 @@ Common Style CSS
 	font-size: 14px;
 	font-weight: 700;
 	font-family: Droid Serif;
-	color: #D7A226;
+	color: #BA9044;
 	text-align: center;
 	display: block;
 	text-decoration: underline;
@@ -1424,7 +1424,7 @@ Common Style CSS
 }
 .service-sidebar > h3 {
 	font-size: 24px;
-	color: #D7A226;
+	color: #BA9044;
 	font-weight: 700;
 	margin-bottom: 45px;
 }
@@ -1475,7 +1475,7 @@ Common Style CSS
     margin-bottom: 0px;
 }
 .service-sidebar > a.download:hover{
-    background-color: #D7A226;
+    background-color: #BA9044;
     color: #060227;
 }
 .service-next-prev {
@@ -1497,7 +1497,7 @@ Common Style CSS
 	color: #979797;
 }
 .service-next-prev > ul > li > a:hover{
-    color: #D7A226;
+    color: #BA9044;
 } 
 .service-next-prev > ul > li > a > i{
     vertical-align: middle;
@@ -1574,9 +1574,9 @@ Common Style CSS
 	color: #060227;
 }
 .team-social-link > li > a:hover{
-    background-color: #D7A226;
+    background-color: #BA9044;
     color: #fff;
-    border-color: #D7A226;
+    border-color: #BA9044;
 }
 /*----------------------------------
        10. Our Working Area CSS
@@ -1627,7 +1627,7 @@ Common Style CSS
 }
 .request-quate-title > h2 {
 	font-size: 34px;
-	color: #D7A226;
+	color: #BA9044;
 	font-weight: 700;
 	margin: 0;
 }
@@ -1729,7 +1729,7 @@ Common Style CSS
 	display: inline-block;
 }
 .blog-meta > li > a:hover{
-    color: #D7A226;
+    color: #BA9044;
 }
 .blog-content > h3 {
 	font-size: 24px;
@@ -1775,10 +1775,10 @@ Common Style CSS
 	vertical-align: middle;
 }
 .blog-content > a:hover{
-    color: #D7A226;
+    color: #BA9044;
 }
 .blog-content > a:hover::before{
-    background-color: #D7A226;
+    background-color: #BA9044;
 }
 /*----------------------
     Pagination css
@@ -1806,7 +1806,7 @@ Common Style CSS
 	vertical-align: middle;
 }
 .blog-pagination > ul > li > a:hover{
-    color: #D7A226;
+    color: #BA9044;
 }
 /*---------------------------
     Blog Sidebar css
@@ -1851,7 +1851,7 @@ Common Style CSS
 }
 .sidebar-form > form > input:focus,
 .widget-newslatter > form input:focus{
-    border-color: #D7A226;
+    border-color: #BA9044;
 }
 .sidebar-form > form > button,
 .widget-newslatter > form button{
@@ -1879,7 +1879,7 @@ Common Style CSS
 	top: 5px;
 }
 .widget-newslatter > form button:hover{
-    background: #D7A226; 
+    background: #BA9044; 
 }
 .sidebar-rc-post > ul > li {
 	list-style: none;
@@ -1956,9 +1956,9 @@ Common Style CSS
 	border: 1px solid #cbcbcb;
 }
 .sidebar-tag > li > a:hover {
-	background: #D7A226;
+	background: #BA9044;
 	color: #fff;
-	border-color: #D7A226;
+	border-color: #BA9044;
 }
 /*Instafeed css*/
 .widget-instagram {
@@ -2147,7 +2147,7 @@ h4.small-title {
 }
 .common-tag ul > li > a:hover,
 .blog-share ul > li > a:hover{
-    color: #D7A226;
+    color: #BA9044;
 }
 .next-prev-post {
 	flex: 1 0 100%;
@@ -2171,7 +2171,7 @@ h4.small-title {
 	color: #979797;
 }
 .next-prev-post > ul > li > a:hover{
-    color: #D7A226;
+    color: #BA9044;
 }
 .comment {
 	display: flex;
@@ -2203,7 +2203,7 @@ h4.small-title {
 }
 .comment-content a.reply {
 	font-size: 14px;
-	color: #D7A226;
+	color: #BA9044;
 	font-weight: 400;
 	text-transform: uppercase;
 }
@@ -2226,7 +2226,7 @@ h4.small-title {
 .sent-btn {
 	display: inline-block;
 	height: 45px;
-	background: #D7A226;
+	background: #BA9044;
 	padding: 10px 30px;
 	color: #fff;
 	font-weight: 600;
@@ -2236,7 +2236,7 @@ h4.small-title {
 	position: relative;
 	vertical-align: middle;
 	overflow: hidden;
-	border: 1px solid #D7A226;
+	border: 1px solid #BA9044;
 	transition: 0.3s ease-in-out;
 }
 .sent-btn:hover{
@@ -2372,13 +2372,13 @@ h4.small-title {
     font-size: 14px;
 }
 .footer-tweet > li > span > a:hover{
-    color: #D7A226;
+    color: #BA9044;
 }
 .footer-tweet > li > p > a {
 	font-weight: 300;
     font-size: 16px;
     display: inline-block;
-	color: #D7A226;
+	color: #BA9044;
 }
 .footer-tweet > li::before {
 	position: absolute;
@@ -2413,10 +2413,10 @@ h4.small-title {
 	font-weight: 400;
 }
 .footer-bottom-area p span {
-	color: #D7A226;
+	color: #BA9044;
 }
 .footer-bottom-area p a{
-    color: #D7A226;
+    color: #BA9044;
 }
 /*---------------------
     15. Page Banner CSS
@@ -2472,7 +2472,7 @@ h4.small-title {
 	font-size: 32px;
 	text-align: center;
 	font-weight: 700;
-	color: #D7A226;
+	color: #BA9044;
     margin-bottom: 20px;
 }
 .page-appointment-box .single-input {
@@ -2491,7 +2491,7 @@ h4.small-title {
 }
 .single-input > input:focus,
 .single-input > textarea:focus{
-    border-color: #D7A226;
+    border-color: #BA9044;
 }
 .single-input > input::-webkit-input-placeholder,
 .single-input > textarea::-webkit-input-placeholder{
@@ -2555,7 +2555,7 @@ h4.small-title {
     transition: all 0.5s ease-in-out;
 }
 .single-pricing-table:hover .pricing-head {
-	background: #D7A226;
+	background: #BA9044;
 }
 .single-pricing-table:hover .pricing-head .price::before {
 	background-color: #060227;
@@ -2571,7 +2571,7 @@ h4.small-title {
 }
 .priceing-description > h3 {
 	font-size: 32px;
-	color: #D7A226;
+	color: #BA9044;
 	font-weight: 700;
 	line-height: 40px;
 	margin-bottom: 20px;
@@ -2620,7 +2620,7 @@ h4.small-title {
 	left: 0;
 	height: 40px;
 	width: 180px;
-	background-color: #D7A226;
+	background-color: #BA9044;
 	z-index: -1;
     transition: all 0.3s ease-in-out;
 }
@@ -2673,17 +2673,17 @@ h4.small-title {
 	padding: 24px 50px;
 }
 .pricing-footer > a:hover{
-    background-color: #D7A226;
+    background-color: #BA9044;
     color: #fff;
 }
 .single-pricing-table.pricing-active .pricing-head{
-    background-color: #D7A226;
+    background-color: #BA9044;
 }
 .single-pricing-table.pricing-active .pricing-head .price::before{
     background-color: #060227;
 }
 .single-pricing-table.pricing-active .pricing-footer > a{
-    background-color: #D7A226;
+    background-color: #BA9044;
     color: #fff;
 }
 .single-pricing-table.style-2 {
@@ -2762,7 +2762,7 @@ h4.small-title {
 	line-height: 1;
 }
 .single-pricing-table.style-2 .pricing-footer > a:hover{
-    color: #D7A226;
+    color: #BA9044;
 }
 .pricing-footer > a i {
     transition: all 0.4s ease-out 0s;
@@ -2811,7 +2811,7 @@ h4.small-title {
 	color: #fff;
 }
 .contact-information p a:hover{
-    color: #D7A226;
+    color: #BA9044;
 }
 .contact-form-title > h3 {
 	font-size: 32px;
